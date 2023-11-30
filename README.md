@@ -1,2 +1,2 @@
-# JessiCCruz-museo.github.io
+# JessiCCruz-museo
 tarea pagina de museo
